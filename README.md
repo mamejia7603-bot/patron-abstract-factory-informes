@@ -238,4 +238,4 @@ classDiagram
 
 ## Autor
 
-<Nombre y apellidos> – Universidad Internacional de La Rioja (UNIR)
+Michael Alexander Mejía Mejía – Universidad Internacional de La Rioja (UNIR)
